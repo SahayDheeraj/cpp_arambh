@@ -1,9 +1,9 @@
 // Object Oriented Programming(OOP) basic topics cover here.
 // classes, objects, access modifiers
 // encapsulation, abstraction, inheritanse, polymorphism.
-/* #include <iostream>
+#include <iostream>
 using namespace std;
-using std::string;  */
+using std::string;  
 //class and objects && Access modifiers
 /*
 class Employee {
