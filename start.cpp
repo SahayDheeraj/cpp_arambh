@@ -257,7 +257,7 @@ int main(){
 */
 
 // POLYMORPHISM 
-/*
+
 class AbstractEmployee {
     virtual void AskForPromotion() = 0; //pure virtual function or an abstract function. 
 };
@@ -366,6 +366,6 @@ int main(){
     e1->Work();
 
 }
-*/
+
 
 
